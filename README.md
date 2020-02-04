@@ -1,13 +1,13 @@
-# Middleware [![Build Status](https://travis-ci.org/clevergo/middleware.svg?branch=master)](https://travis-ci.org/clevergo/middleware) [![Coverage Status](https://coveralls.io/repos/github/clevergo/middleware/badge.svg?branch=master)](https://coveralls.io/github/clevergo/middleware?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/clevergo/middleware)](https://goreportcard.com/report/github.com/clevergo/middleware) [![GoDoc](https://godoc.org/github.com/clevergo/middleware?status.svg)](http://godoc.org/github.com/clevergo/middleware)
+# Middleware [![Build Status](https://travis-ci.org/clevergo/middleware.svg?branch=master)](https://travis-ci.org/clevergo/middleware) [![Coverage Status](https://coveralls.io/repos/github/clevergo/middleware/badge.svg?branch=master)](https://coveralls.io/github/clevergo/middleware?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/clevergo/middleware)](https://goreportcard.com/report/github.com/clevergo/middleware) [![GoDoc](https://img.shields.io/badge/godoc-reference-blue)](https://pkg.go.dev/github.com/clevergo/middleware) [![Release](https://img.shields.io/github/release/clevergo/middleware.svg?style=flat-square)](https://github.com/clevergo/middleware/releases)
 
 Collections of HTTP middlewares.
 
 ## Middlewares
 
-- [**Logging**](https://godoc.org/github.com/clevergo/middleware#Logging)
-- [**Compress**](https://godoc.org/github.com/clevergo/middleware#Compress)
-- [**Header**](https://godoc.org/github.com/clevergo/middleware#Header)
-- [**Basic Auth**](https://godoc.org/github.com/clevergo/middleware#BasicAuth)
+- [**Logging**](https://pkg.go.dev/github.com/clevergo/middleware#Logging)
+- [**Compress**](https://pkg.go.dev/github.com/clevergo/middleware#Compress)
+- [**Header**](https://pkg.go.dev/github.com/clevergo/middleware#Header)
+- [**Basic Auth**](https://pkg.go.dev/github.com/clevergo/middleware#BasicAuth)
 
 
 ## Example
